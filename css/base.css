@@ -1,0 +1,97 @@
+/* Tipografías alojadas en el propio sitio (antes: Google Fonts vía WebFont.js) */
+@font-face{font-family:"League Spartan";font-style:normal;font-weight:300;font-display:swap;src:url(/fonts/league-spartan-latin-300-normal.woff2) format("woff2")}
+@font-face{font-family:"League Spartan";font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/league-spartan-latin-400-normal.woff2) format("woff2")}
+@font-face{font-family:"League Spartan";font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/league-spartan-latin-500-normal.woff2) format("woff2")}
+@font-face{font-family:"League Spartan";font-style:normal;font-weight:600;font-display:swap;src:url(/fonts/league-spartan-latin-600-normal.woff2) format("woff2")}
+@font-face{font-family:Poppins;font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/poppins-latin-400-normal.woff2) format("woff2")}
+@font-face{font-family:Poppins;font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/poppins-latin-500-normal.woff2) format("woff2")}
+@font-face{font-family:Poppins;font-style:normal;font-weight:600;font-display:swap;src:url(/fonts/poppins-latin-600-normal.woff2) format("woff2")}
+
+/* Equivalente a normalize.css + webflow.css (solo lo que usa el sitio) */
+*,*::before,*::after{box-sizing:border-box}
+html{height:100%;-webkit-text-size-adjust:100%;font-family:sans-serif}
+body{margin:0;min-height:100%;background-color:#fff;font-family:Arial,sans-serif;font-size:14px;line-height:20px;color:#333}
+img{max-width:100%;vertical-align:middle;display:inline-block;border:0}
+a{background-color:transparent;color:inherit}
+strong{font-weight:bold}
+h1,h2,h3,h4,h5,h6{font-weight:bold;margin-bottom:10px}
+p{margin-top:0;margin-bottom:10px}
+section{display:block}
+.w-inline-block{max-width:100%;display:inline-block}
+.w-layout-hflex{display:flex;flex-direction:row;align-items:flex-start}
+.w-layout-vflex{display:flex;flex-direction:column;align-items:flex-start}
+.w-layout-blockcontainer{max-width:940px;margin-left:auto;margin-right:auto;display:block}
+.w-container{max-width:940px;margin-left:auto;margin-right:auto}
+.w-container::before,.w-container::after{content:" ";grid-area:1/1/2/2;display:table}
+.w-container::after{clear:both}
+.w-button{display:inline-block;padding:9px 15px;background-color:#3898ec;color:#fff;border:0;line-height:inherit;text-decoration:none;cursor:pointer;border-radius:0}
+@media (max-width:991px){.w-layout-blockcontainer,.w-container{max-width:728px}}
+@media (max-width:767px){.w-layout-blockcontainer,.w-container{max-width:none}}
+
+/* Navbar (reemplaza el componente w-nav de Webflow, colapsa en <=767px como el original) */
+.w-nav{position:relative;background:#ddd;z-index:1000}
+.w-nav::before,.w-nav::after{content:" ";grid-area:1/1/2/2;display:table}
+.w-nav::after{clear:both}
+.w-nav-brand{float:left;position:relative;color:#333;text-decoration:none}
+.w-nav-link{vertical-align:top;color:#222;text-align:left;margin-left:auto;margin-right:auto;padding:20px;text-decoration:none;display:inline-block;position:relative}
+.w-nav-menu{float:right;position:relative}
+.w-nav-button{float:right;padding:18px;font-size:24px;display:none;cursor:pointer;position:relative;background:transparent;border:0;color:inherit;font:inherit;line-height:0}
+@media (max-width:767px){
+  .w-nav .w-nav-menu{display:none}
+  .w-nav .w-nav-button{display:block}
+  .w-nav.is-open .w-nav-menu{display:block!important;position:absolute;left:0;right:0;top:100%;float:none;min-width:200px;text-align:center;overflow:visible;animation:navDrop .4s ease}
+  .w-nav.is-open .w-nav-link{display:block;position:relative}
+}
+@keyframes navDrop{from{transform:translateY(-12px);opacity:0}to{transform:none;opacity:1}}
+
+/* ---------- Accesibilidad ---------- */
+.skip-link{position:absolute;left:16px;top:-100px;z-index:2000;padding:12px 20px;background:#111;color:#fbf8f3;border-radius:40px;font-family:"League Spartan",sans-serif;font-size:18px;text-decoration:none;transition:top .2s ease}
+.skip-link:focus{top:16px}
+.sr-only{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+:focus{outline:none}
+:focus-visible{outline:3px solid #0a6050;outline-offset:4px;border-radius:4px}
+.footer-black :focus-visible{outline-color:#0a6050}
+main:focus{outline:none}
+
+/* ---------- Animaciones (equivalentes a las interacciones de Webflow) ---------- */
+/* Aparición al hacer scroll: se activa solo si hay JS y el usuario no pidió reducir movimiento */
+.js-motion [data-reveal]{opacity:0;transform:translate3d(0,60px,0);will-change:transform,opacity}
+.js-motion [data-reveal].is-revealed{opacity:1;transform:none;
+  transition:transform var(--rv-dur,1200ms) cubic-bezier(.165,.84,.44,1) var(--rv-delay,0ms),
+             opacity var(--rv-dur,1200ms) ease-in var(--rv-delay,0ms)}
+[data-reveal="1"]{--rv-dur:1100ms;--rv-delay:300ms}
+[data-reveal="2"]{--rv-dur:1000ms;--rv-delay:600ms}
+[data-reveal="3"]{--rv-dur:1000ms;--rv-delay:900ms}
+
+/* Navbar que se esconde al bajar y aparece al subir (Home y About) */
+[data-hide-on-scroll] .w-nav{transition:transform .4s cubic-bezier(.25,.46,.45,.94)}
+[data-hide-on-scroll].nav-hidden .w-nav{transform:translate3d(0,-100px,0)}
+[data-hide-on-scroll].nav-hidden .w-nav:focus-within{transform:none}
+
+/* Hover en cards de proyectos */
+.hover-zoom{transition:transform .3s ease-in-out}
+@media (hover:hover){.hover-zoom:hover,.hover-zoom:focus-visible{transform:scale(1.05)}}
+
+/* Parallax con el mouse */
+[data-parallax]{transition:transform .15s linear;will-change:transform}
+
+/* Botón "Let's talk" (navbar) — solo desktop, como en Webflow */
+.button4_bg-2{transition:width .5s cubic-bezier(.075,.82,.165,1)}
+.button4_text-3{transition:color .5s cubic-bezier(.075,.82,.165,1)}
+.button2_icon-2{transition:transform .4s cubic-bezier(.075,.82,.165,1)}
+@media (min-width:992px) and (hover:hover){
+  .button4-3:hover .button4_bg-2,.button4-3:focus-visible .button4_bg-2{width:100%}
+  .button4-3:hover .button4_text-3,.button4-3:focus-visible .button4_text-3{color:#fff;transition-duration:.2s}
+  .button4-3:hover .button2_icon-2,.button4-3:focus-visible .button2_icon-2{transform:translateX(.5em);transition-duration:.5s}
+}
+
+/* Botón "See my full project" */
+.flecha-boton{transition:transform .2s ease-out}
+.boton-see:hover .flecha-boton,.boton-see:focus-visible .flecha-boton{transform:rotate(40deg)}
+
+/* Respeto de "reducir movimiento" (WCAG 2.3.3) */
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}
+  [data-hide-on-scroll].nav-hidden .w-nav{transform:none}
+  .hover-zoom:hover{transform:none}
+}

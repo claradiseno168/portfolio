@@ -1,0 +1,760 @@
+{
+ "6a123ab5418a4b94fd72cd28": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/6a123ab5418a4b94fd72cd28_wand.svg",
+  "file": "6a123ab5418a4b94fd72cd28_wand.svg",
+  "name": "wand.svg",
+  "type": "image/svg+xml",
+  "size": 2965,
+  "local": "assets/6a123ab5418a4b94fd72cd28.svg"
+ },
+ "6a1236b55d4aa63df29efef5": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/6a1236b55d4aa63df29efef5_adobe.svg",
+  "file": "6a1236b55d4aa63df29efef5_adobe.svg",
+  "name": "adobe.svg",
+  "type": "image/svg+xml",
+  "size": 295,
+  "local": "assets/6a1236b55d4aa63df29efef5.svg"
+ },
+ "6a12352b23be8647e995f497": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/6a12352b23be8647e995f497_Framer-Logo--Streamline-Logos.svg",
+  "file": "6a12352b23be8647e995f497_framer-logo--streamline-logos.svg",
+  "name": "Framer-Logo--Streamline-Logos.svg",
+  "type": "image/svg+xml",
+  "size": 352,
+  "local": "assets/6a12352b23be8647e995f497.svg"
+ },
+ "6a122b95b4c33bf17f386be2": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/6a122b95b4c33bf17f386be2_flecha%20icon.svg",
+  "file": "6a122b95b4c33bf17f386be2_flecha-icon.svg",
+  "name": "flecha icon.svg",
+  "type": "image/svg+xml",
+  "size": 230,
+  "local": "assets/6a122b95b4c33bf17f386be2.svg"
+ },
+ "6a1227afb81f34fb34bce799": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/6a1227afb81f34fb34bce799_button2-arrow.svg",
+  "file": "6a1227afb81f34fb34bce799_button2-arrow.svg",
+  "name": "button2-arrow.svg",
+  "type": "image/svg+xml",
+  "size": 312,
+  "local": "assets/6a1227afb81f34fb34bce799.svg"
+ },
+ "690233564f990c1a468e424b": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/690233564f990c1a468e424b_episoddes.png",
+  "file": "690233564f990c1a468e424b_episoddes.png",
+  "name": "episoddes.png",
+  "type": "image/png",
+  "size": 496626,
+  "local": "assets/690233564f990c1a468e424b.webp",
+  "convert": "webp"
+ },
+ "6902332e4c72b2961a5f63cd": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/6902332e4c72b2961a5f63cd_section%20seasons.png",
+  "file": "6902332e4c72b2961a5f63cd_section-seasons.png",
+  "name": "section seasons.png",
+  "type": "image/png",
+  "size": 232372,
+  "local": "assets/6902332e4c72b2961a5f63cd.webp",
+  "convert": "webp"
+ },
+ "690232ecd6bd20129768e29f": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/690232ecd6bd20129768e29f_before%20after.png",
+  "file": "690232ecd6bd20129768e29f_before-after.png",
+  "name": "before after.png",
+  "type": "image/png",
+  "size": 317190,
+  "local": "assets/690232ecd6bd20129768e29f.webp",
+  "convert": "webp"
+ },
+ "69022c6750f32aaeaf69476a": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/69022c6750f32aaeaf69476a_userflow.png",
+  "file": "69022c6750f32aaeaf69476a_userflow.png",
+  "name": "userflow.png",
+  "type": "image/png",
+  "size": 42831,
+  "local": "assets/69022c6750f32aaeaf69476a.png"
+ },
+ "69022c35a1b0ed02091431a8": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/69022c35a1b0ed02091431a8_div-taskflow.png",
+  "file": "69022c35a1b0ed02091431a8_div-taskflow.png",
+  "name": "div-taskflow.png",
+  "type": "image/png",
+  "size": 14913,
+  "local": "assets/69022c35a1b0ed02091431a8.png"
+ },
+ "69022aaa0d1e7de05127b1b5": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/69022aaa0d1e7de05127b1b5_UI%20Banner-min.png",
+  "file": "69022aaa0d1e7de05127b1b5_ui-banner-min.png",
+  "name": "UI Banner-min.png",
+  "type": "image/png",
+  "size": 487554,
+  "local": "assets/69022aaa0d1e7de05127b1b5.webp",
+  "convert": "webp"
+ },
+ "6902260d257944229fbe5163": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/6902260d257944229fbe5163_banner%20sin%20agrandar-min.png",
+  "file": "6902260d257944229fbe5163_banner-sin-agrandar-min.png",
+  "name": "banner sin agrandar-min.png",
+  "type": "image/png",
+  "size": 199633,
+  "local": "assets/6902260d257944229fbe5163.webp",
+  "convert": "webp"
+ },
+ "6902226c6f98e5c3a3ace951": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/6902226c6f98e5c3a3ace951_Fidelidad%20con%20fondo-min.png",
+  "file": "6902226c6f98e5c3a3ace951_fidelidad-con-fondo-min.png",
+  "name": "Fidelidad con fondo-min.png",
+  "type": "image/png",
+  "size": 457355,
+  "local": "assets/6902226c6f98e5c3a3ace951.webp",
+  "convert": "webp"
+ },
+ "69021238e0091a07aee9d697": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/69021238e0091a07aee9d697_video%20tapa%20616%20px%20de%20altto.json",
+  "file": "69021238e0091a07aee9d697_video-tapa-616-px-de-altto.json",
+  "name": "video tapa 616 px de altto.json",
+  "type": "application/json",
+  "size": 3936528,
+  "local": "assets/69021238e0091a07aee9d697.json"
+ },
+ "68ffa32e67fe8a4d3ab31097": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68ffa32e67fe8a4d3ab31097_design%20system%20total-min.png",
+  "file": "68ffa32e67fe8a4d3ab31097_design-system-total-min.png",
+  "name": "design system total-min.png",
+  "type": "image/png",
+  "size": 366362,
+  "local": "assets/68ffa32e67fe8a4d3ab31097.webp",
+  "convert": "webp"
+ },
+ "68ebea5e41b0d79431a426f1": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68ebea5e41b0d79431a426f1_iconos%20apps.svg",
+  "file": "68ebea5e41b0d79431a426f1_iconos-apps.svg",
+  "name": "icono solid.svg",
+  "type": "image/svg+xml",
+  "size": 3830,
+  "local": "assets/68ebea5e41b0d79431a426f1.svg"
+ },
+ "68ebe97a50a3f0603bf1842f": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68ebe97a50a3f0603bf1842f_iconos%20apps.svg",
+  "file": "68ebe97a50a3f0603bf1842f_iconos-apps.svg",
+  "name": "Webflow app.svg",
+  "type": "image/svg+xml",
+  "size": 533,
+  "local": "assets/68ebe97a50a3f0603bf1842f.svg"
+ },
+ "68ebe85fdfeb716fdbb8b439": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68ebe85fdfeb716fdbb8b439_ui-min.png",
+  "file": "68ebe85fdfeb716fdbb8b439_ui-min.png",
+  "name": "ui-min.png",
+  "type": "image/png",
+  "size": 201500,
+  "local": "assets/68ebe85fdfeb716fdbb8b439.webp",
+  "convert": "webp"
+ },
+ "68db194a98b6cefa9fee220b": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68db194a98b6cefa9fee220b_banner-carbique-final-min.jpg",
+  "file": "68db194a98b6cefa9fee220b_banner-carbique-final-min.jpg",
+  "name": "banner-carbique-final-min.jpg",
+  "type": "image/jpeg",
+  "size": 160683,
+  "local": "assets/68db194a98b6cefa9fee220b.webp",
+  "convert": "webp"
+ },
+ "68d6a4ea3de1c7b7c21f3fed": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d6a4ea3de1c7b7c21f3fed_4dcf50689e52bb8235d8561d74e8a548_boton%20flecha.svg",
+  "file": "68d6a4ea3de1c7b7c21f3fed_4dcf50689e52bb8235d8561d74e8a548_boton-flecha.svg",
+  "name": "boton flecha.svg",
+  "type": "image/svg+xml",
+  "size": 1651,
+  "local": "assets/68d6a4ea3de1c7b7c21f3fed.svg"
+ },
+ "68d6a168b55c2ae1fc4ba055": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d6a168b55c2ae1fc4ba055_3%20frames%20banner-min.png",
+  "file": "68d6a168b55c2ae1fc4ba055_3-frames-banner-min.png",
+  "name": "3 frames banner-min.png",
+  "type": "image/png",
+  "size": 296200,
+  "local": "assets/68d6a168b55c2ae1fc4ba055.webp",
+  "convert": "webp"
+ },
+ "68d69f7620945fefcc8b8a93": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d69f7620945fefcc8b8a93_ui%20kit-applica%20comprimido.svg",
+  "file": "68d69f7620945fefcc8b8a93_ui-kit-applica-comprimido.svg",
+  "name": "ui kit-applica comprimido.svg",
+  "type": "image/svg+xml",
+  "size": 3860315,
+  "local": "assets/68d69f7620945fefcc8b8a93.svg"
+ },
+ "68d593600c6b3cfdb5d09d3c": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d593600c6b3cfdb5d09d3c_conteiner-frames.svg",
+  "file": "68d593600c6b3cfdb5d09d3c_conteiner-frames.svg",
+  "name": "conteiner-frames.svg",
+  "type": "image/svg+xml",
+  "size": 288843,
+  "local": "assets/68d593600c6b3cfdb5d09d3c.svg"
+ },
+ "68d589e2f147ecee9685019d": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d589e2f147ecee9685019d_banner%204%20pantallas-min.png",
+  "file": "68d589e2f147ecee9685019d_banner-4-pantallas-min.png",
+  "name": "banner 4 pantallas-min.png",
+  "type": "image/png",
+  "size": 342124,
+  "local": "assets/68d589e2f147ecee9685019d.webp",
+  "convert": "webp"
+ },
+ "68d5724274b62b46cc76723c": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d5724274b62b46cc76723c_Userflow.svg",
+  "file": "68d5724274b62b46cc76723c_userflow.svg",
+  "name": "Userflow.svg",
+  "type": "image/svg+xml",
+  "size": 378170,
+  "local": "assets/68d5724274b62b46cc76723c.svg"
+ },
+ "68d568934baa96be46ab9e37": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d568934baa96be46ab9e37_a921d64e46ccc9129036047ad596e1ed_Taskflow%20%28.svg",
+  "file": "68d568934baa96be46ab9e37_a921d64e46ccc9129036047ad596e1ed_taskflow-(.svg",
+  "name": "TASKFLOW.svg",
+  "type": "image/svg+xml",
+  "size": 74706,
+  "local": "assets/68d568934baa96be46ab9e37.svg"
+ },
+ "68d5632544927190b392c510": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d5632544927190b392c510_div-mvp.svg",
+  "file": "68d5632544927190b392c510_div-mvp.svg",
+  "name": "div-mvp.svg",
+  "type": "image/svg+xml",
+  "size": 3565926,
+  "local": "assets/68d5632544927190b392c510.svg"
+ },
+ "68d55feb3fb040525aa025f9": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d55feb3fb040525aa025f9_porcentaje%203.svg",
+  "file": "68d55feb3fb040525aa025f9_porcentaje-3.svg",
+  "name": "porcentaje 3.svg",
+  "type": "image/svg+xml",
+  "size": 5373,
+  "local": "assets/68d55feb3fb040525aa025f9.svg"
+ },
+ "68d55fd5c95d68bf1e41ea7e": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d55fd5c95d68bf1e41ea7e_porcentaje%202.svg",
+  "file": "68d55fd5c95d68bf1e41ea7e_porcentaje-2.svg",
+  "name": "porcentaje 2.svg",
+  "type": "image/svg+xml",
+  "size": 5371,
+  "local": "assets/68d55fd5c95d68bf1e41ea7e.svg"
+ },
+ "68d55f101108e6928338c161": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d55f101108e6928338c161_porcentaje%201.svg",
+  "file": "68d55f101108e6928338c161_porcentaje-1.svg",
+  "name": "porcentaje 1.svg",
+  "type": "image/svg+xml",
+  "size": 4226,
+  "local": "assets/68d55f101108e6928338c161.svg"
+ },
+ "68d55a44daeeb5e81e789188": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d55a44daeeb5e81e789188_design%20thinking.svg",
+  "file": "68d55a44daeeb5e81e789188_design-thinking.svg",
+  "name": "design thinking.svg",
+  "type": "image/svg+xml",
+  "size": 37752,
+  "local": "assets/68d55a44daeeb5e81e789188.svg"
+ },
+ "68d47f127200212b7e3818cb": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d47f127200212b7e3818cb_icono%20ps.svg",
+  "file": "68d47f127200212b7e3818cb_icono-ps.svg",
+  "name": "icono ps.svg",
+  "type": "image/svg+xml",
+  "size": 3293,
+  "local": "assets/68d47f127200212b7e3818cb.svg"
+ },
+ "68d47efcb16249872058d1b7": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d47efcb16249872058d1b7_icono%20ai.svg",
+  "file": "68d47efcb16249872058d1b7_icono-ai.svg",
+  "name": "icono ai.svg",
+  "type": "image/svg+xml",
+  "size": 1449,
+  "local": "assets/68d47efcb16249872058d1b7.svg"
+ },
+ "68d47ec4bb7b376738ce296b": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d47ec4bb7b376738ce296b_whimsical.svg",
+  "file": "68d47ec4bb7b376738ce296b_whimsical.svg",
+  "name": "whimsical.svg",
+  "type": "image/svg+xml",
+  "size": 1119,
+  "local": "assets/68d47ec4bb7b376738ce296b.svg"
+ },
+ "68d47e9f15680631ae50b9f6": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d47e9f15680631ae50b9f6_icono%20optimal%20workshop.svg",
+  "file": "68d47e9f15680631ae50b9f6_icono-optimal-workshop.svg",
+  "name": "icono optimal workshop.svg",
+  "type": "image/svg+xml",
+  "size": 1924,
+  "local": "assets/68d47e9f15680631ae50b9f6.svg"
+ },
+ "68d47da5463d4c531686bcdf": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d47da5463d4c531686bcdf_icono%20figma.svg",
+  "file": "68d47da5463d4c531686bcdf_icono-figma.svg",
+  "name": "icono figma.svg",
+  "type": "image/svg+xml",
+  "size": 1784,
+  "local": "assets/68d47da5463d4c531686bcdf.svg"
+ },
+ "68d4701c2e16b13d8d82b78a": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d4701c2e16b13d8d82b78a_bannercito-min.png",
+  "file": "68d4701c2e16b13d8d82b78a_bannercito-min.png",
+  "name": "bannercito-min.png",
+  "type": "image/png",
+  "size": 569945,
+  "local": "assets/68d4701c2e16b13d8d82b78a.webp",
+  "convert": "webp"
+ },
+ "68d440140162e6ca90cc3642": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d440140162e6ca90cc3642_banner-min.png",
+  "file": "68d440140162e6ca90cc3642_banner-min.png",
+  "name": "banner-min.png",
+  "type": "image/png",
+  "size": 277337,
+  "local": "assets/68d440140162e6ca90cc3642.webp",
+  "convert": "webp"
+ },
+ "68d42bc47f2b8e78dbb7b9da": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d42bc47f2b8e78dbb7b9da_foto%20cv-min.jpg",
+  "file": "68d42bc47f2b8e78dbb7b9da_foto-cv-min.jpg",
+  "name": "foto cv-min.jpg",
+  "type": "image/jpeg",
+  "size": 108762,
+  "local": "assets/68d42bc47f2b8e78dbb7b9da.jpg"
+ },
+ "68d3fb86029a071ce89bd195": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d3fb86029a071ce89bd195_buzos-min.png",
+  "file": "68d3fb86029a071ce89bd195_buzos-min.png",
+  "name": "buzos-min.png",
+  "type": "image/png",
+  "size": 199103,
+  "local": "assets/68d3fb86029a071ce89bd195.webp",
+  "convert": "webp"
+ },
+ "68d3fb6bd72daea6e05f9b42": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d3fb6bd72daea6e05f9b42_branding-min.png",
+  "file": "68d3fb6bd72daea6e05f9b42_branding-min.png",
+  "name": "branding-min.png",
+  "type": "image/png",
+  "size": 195098,
+  "local": "assets/68d3fb6bd72daea6e05f9b42.webp",
+  "convert": "webp"
+ },
+ "68d3f9e705dfa0e5f7a19545": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d3f9e705dfa0e5f7a19545_bocado-graphic-min.png",
+  "file": "68d3f9e705dfa0e5f7a19545_bocado-graphic-min.png",
+  "name": "bocado-graphic-min.png",
+  "type": "image/png",
+  "size": 142484,
+  "local": "assets/68d3f9e705dfa0e5f7a19545.png"
+ },
+ "68d30041a1be363bea9bed73": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d30041a1be363bea9bed73_netflix-min.png",
+  "file": "68d30041a1be363bea9bed73_netflix-min.png",
+  "name": "netflix-min.png",
+  "type": "image/png",
+  "size": 293953,
+  "local": "assets/68d30041a1be363bea9bed73.webp",
+  "convert": "webp"
+ },
+ "68d2ff055b33ce891832ef41": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d2ff055b33ce891832ef41_carbique-min.png",
+  "file": "68d2ff055b33ce891832ef41_carbique-min.png",
+  "name": "carbique-min.png",
+  "type": "image/png",
+  "size": 170217,
+  "local": "assets/68d2ff055b33ce891832ef41.webp",
+  "convert": "webp"
+ },
+ "68d2fb3621873a9c3c852795": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d2fb3621873a9c3c852795_applica-min.png",
+  "file": "68d2fb3621873a9c3c852795_applica-min.png",
+  "name": "applica-min.png",
+  "type": "image/png",
+  "size": 247981,
+  "local": "assets/68d2fb3621873a9c3c852795.webp",
+  "convert": "webp"
+ },
+ "68d2a90387dca7dfd2d5ba54": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d2a90387dca7dfd2d5ba54_linea.svg",
+  "file": "68d2a90387dca7dfd2d5ba54_linea.svg",
+  "name": "linea.svg",
+  "type": "image/svg+xml",
+  "size": 168,
+  "local": "assets/68d2a90387dca7dfd2d5ba54.svg"
+ },
+ "68d1d63fd07b756a6a6fa7e3": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d1d63fd07b756a6a6fa7e3_imagen%20carbique%201.png",
+  "file": "68d1d63fd07b756a6a6fa7e3_imagen-carbique-1.png",
+  "name": "imagen carbique 1.png",
+  "type": "image/png",
+  "size": 82142,
+  "local": "assets/68d1d63fd07b756a6a6fa7e3.png"
+ },
+ "68d1d6213025be05b1f449aa": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d1d6213025be05b1f449aa_app-portada%201-min.png",
+  "file": "68d1d6213025be05b1f449aa_app-portada-1-min.png",
+  "name": "app-portada 1-min.png",
+  "type": "image/png",
+  "size": 172305,
+  "local": "assets/68d1d6213025be05b1f449aa.webp",
+  "convert": "webp"
+ },
+ "68d1d4e7781fc45c1fa7ff4a": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68d1d4e7781fc45c1fa7ff4a_ezyer-portada%201.png",
+  "file": "68d1d4e7781fc45c1fa7ff4a_ezyer-portada-1.png",
+  "name": "ezyer-portada 1.png",
+  "type": "image/png",
+  "size": 32395,
+  "local": "assets/68d1d4e7781fc45c1fa7ff4a.png"
+ },
+ "68016aaddfa07ed867d10b7a": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/68016aaddfa07ed867d10b7a_WEBFLOE.svg",
+  "file": "68016aaddfa07ed867d10b7a_webfloe.svg",
+  "name": "WEBFLOE.svg",
+  "type": "image/svg+xml",
+  "size": 517,
+  "local": "assets/68016aaddfa07ed867d10b7a.svg"
+ },
+ "680166d8e57ff51f02641f4d": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/680166d8e57ff51f02641f4d_hero-section--botelllas-2-min.jpg",
+  "file": "680166d8e57ff51f02641f4d_hero-section--botelllas-2-min.jpg",
+  "name": "hero-section--botelllas-2-min.jpg",
+  "type": "image/jpeg",
+  "size": 171086,
+  "local": "assets/680166d8e57ff51f02641f4d.webp",
+  "convert": "webp"
+ },
+ "67c723a59dd63006d1e6cad8": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67c723a59dd63006d1e6cad8_cruz%20nav%20bar.svg",
+  "file": "67c723a59dd63006d1e6cad8_cruz-nav-bar.svg",
+  "name": "cruz nav bar.svg",
+  "type": "image/svg+xml",
+  "size": 271,
+  "local": "assets/67c723a59dd63006d1e6cad8.svg"
+ },
+ "67c618797e3b430e58a5a1a8": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67c618797e3b430e58a5a1a8_%2B.png",
+  "file": "67c618797e3b430e58a5a1a8_+.png",
+  "name": "+.png",
+  "type": "image/png",
+  "size": 231,
+  "local": "assets/67c618797e3b430e58a5a1a8.png"
+ },
+ "67c5dfd8311103d1bea06ae4": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67c5dfd8311103d1bea06ae4_iconos%20telegram%20negro.svg",
+  "file": "67c5dfd8311103d1bea06ae4_iconos-telegram-negro.svg",
+  "name": "iconos telegram negro.svg",
+  "type": "image/svg+xml",
+  "size": 861,
+  "local": "assets/67c5dfd8311103d1bea06ae4.svg"
+ },
+ "67c504155daca5d7c0d757ca": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67c504155daca5d7c0d757ca_telegram.svg",
+  "file": "67c504155daca5d7c0d757ca_telegram.svg",
+  "name": "telegram.svg",
+  "type": "image/svg+xml",
+  "size": 861,
+  "local": "assets/67c504155daca5d7c0d757ca.svg"
+ },
+ "67c1dba8f11bf11e72b56675": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67c1dba8f11bf11e72b56675_foto%20mia-min%20(1).jpg",
+  "file": "67c1dba8f11bf11e72b56675_foto-mia-min-(1).jpg",
+  "name": "foto mia-min (1).jpg",
+  "type": "image/jpeg",
+  "size": 170553,
+  "local": "assets/67c1dba8f11bf11e72b56675.webp",
+  "convert": "webp"
+ },
+ "67c1d243ef6b80e189392a48": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67c1d243ef6b80e189392a48_solidworks%2C%20see%20full.svg",
+  "file": "67c1d243ef6b80e189392a48_solidworks,-see-full.svg",
+  "name": "solidworks, see full.svg",
+  "type": "image/svg+xml",
+  "size": 3830,
+  "local": "assets/67c1d243ef6b80e189392a48.svg"
+ },
+ "67c081ae1ac89191c7048f42": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67c081ae1ac89191c7048f42_pacdora%2C%20see%20full.svg",
+  "file": "67c081ae1ac89191c7048f42_pacdora,-see-full.svg",
+  "name": "pacdora, see full.svg",
+  "type": "image/svg+xml",
+  "size": 3451,
+  "local": "assets/67c081ae1ac89191c7048f42.svg"
+ },
+ "67c07be1c4a0e140c7b86757": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67c07be1c4a0e140c7b86757_Export_Video_2024-11-29.mp4",
+  "file": "67c07be1c4a0e140c7b86757_export_video_2024-11-29.mp4",
+  "name": "Export_Video_2024-11-29.mp4",
+  "type": "video/mp4",
+  "size": 241606,
+  "local": "assets/67c07be1c4a0e140c7b86757.mp4"
+ },
+ "67bf1ef045e52c4cba3ca5d9": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67bf1ef045e52c4cba3ca5d9_ps%2C%20see%20full.svg",
+  "file": "67bf1ef045e52c4cba3ca5d9_ps,-see-full.svg",
+  "name": "ps, see full.svg",
+  "type": "image/svg+xml",
+  "size": 3261,
+  "local": "assets/67bf1ef045e52c4cba3ca5d9.svg"
+ },
+ "67bf1eeb3f7b811fe3109b46": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67bf1eeb3f7b811fe3109b46_illustrator%2C%20see%20full.svg",
+  "file": "67bf1eeb3f7b811fe3109b46_illustrator,-see-full.svg",
+  "name": "illustrator, see full.svg",
+  "type": "image/svg+xml",
+  "size": 1390,
+  "local": "assets/67bf1eeb3f7b811fe3109b46.svg"
+ },
+ "67bcc7ab416b2c1f46a2357a": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67bcc7ab416b2c1f46a2357a_whimsical%2C%20see%20full.svg",
+  "file": "67bcc7ab416b2c1f46a2357a_whimsical,-see-full.svg",
+  "name": "whimsical, see full.svg",
+  "type": "image/svg+xml",
+  "size": 1101,
+  "local": "assets/67bcc7ab416b2c1f46a2357a.svg"
+ },
+ "67bcc7ab1f97387ac55e2f03": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67bcc7ab1f97387ac55e2f03_op%2C%20see%20full.svg",
+  "file": "67bcc7ab1f97387ac55e2f03_op,-see-full.svg",
+  "name": "op, see full.svg",
+  "type": "image/svg+xml",
+  "size": 1902,
+  "local": "assets/67bcc7ab1f97387ac55e2f03.svg"
+ },
+ "67bcc7ab1a02055266f46752": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67bcc7ab1a02055266f46752_figma%2C%20see%20full.svg",
+  "file": "67bcc7ab1a02055266f46752_figma,-see-full.svg",
+  "name": "figma, see full.svg",
+  "type": "image/svg+xml",
+  "size": 1667,
+  "local": "assets/67bcc7ab1a02055266f46752.svg"
+ },
+ "67b89d60f9a79e5d617b1d8a": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67b89d60f9a79e5d617b1d8a_icono%20behance%20footer%20negro.svg",
+  "file": "67b89d60f9a79e5d617b1d8a_icono-behance-footer-negro.svg",
+  "name": "icono behance footer negro.svg",
+  "type": "image/svg+xml",
+  "size": 2568,
+  "local": "assets/67b89d60f9a79e5d617b1d8a.svg"
+ },
+ "67b89d3b0b172c1d37136f96": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67b89d3b0b172c1d37136f96_icono%20figma%20footer%20negro.svg",
+  "file": "67b89d3b0b172c1d37136f96_icono-figma-footer-negro.svg",
+  "name": "icono figma footer negro.svg",
+  "type": "image/svg+xml",
+  "size": 1605,
+  "local": "assets/67b89d3b0b172c1d37136f96.svg"
+ },
+ "67b89d28336baea608632e98": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67b89d28336baea608632e98_icono%20linkedin%20footer%20negro.svg",
+  "file": "67b89d28336baea608632e98_icono-linkedin-footer-negro.svg",
+  "name": "icono linkedin footer negro.svg",
+  "type": "image/svg+xml",
+  "size": 761,
+  "local": "assets/67b89d28336baea608632e98.svg"
+ },
+ "67b89c677342d34e358ef0a9": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67b89c677342d34e358ef0a9_iconos%20insta%20para%20footer%20negro.svg",
+  "file": "67b89c677342d34e358ef0a9_iconos-insta-para-footer-negro.svg",
+  "name": "iconos insta para footer negro.svg",
+  "type": "image/svg+xml",
+  "size": 1615,
+  "local": "assets/67b89c677342d34e358ef0a9.svg"
+ },
+ "67b88c6f2546383ab5342237": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67b88c6f2546383ab5342237_flecha%20CARD.svg",
+  "file": "67b88c6f2546383ab5342237_flecha-card.svg",
+  "name": "flecha CARD.svg",
+  "type": "image/svg+xml",
+  "size": 1665,
+  "local": "assets/67b88c6f2546383ab5342237.svg"
+ },
+ "67b505e43dc3bf76cfbc0050": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67b505e43dc3bf76cfbc0050_Men%C3%BA%20hamburguesa.svg",
+  "file": "67b505e43dc3bf76cfbc0050_menú-hamburguesa.svg",
+  "name": "Menú hamburguesa.svg",
+  "type": "image/svg+xml",
+  "size": 295,
+  "local": "assets/67b505e43dc3bf76cfbc0050.svg"
+ },
+ "67b4f50753445ea88bb60589": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67b4f50753445ea88bb60589_icono%20figma.svg",
+  "file": "67b4f50753445ea88bb60589_icono-figma.svg",
+  "name": "icono figma.svg",
+  "type": "image/svg+xml",
+  "size": 1714,
+  "local": "assets/67b4f50753445ea88bb60589.svg"
+ },
+ "67b4f4f26927b3c91bcd7573": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67b4f4f26927b3c91bcd7573_icono%20behance.svg",
+  "file": "67b4f4f26927b3c91bcd7573_icono-behance.svg",
+  "name": "icono behance.svg",
+  "type": "image/svg+xml",
+  "size": 2569,
+  "local": "assets/67b4f4f26927b3c91bcd7573.svg"
+ },
+ "67b4f4ebdd7c3496ee236aa9": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67b4f4ebdd7c3496ee236aa9_icono%20linkedin.svg",
+  "file": "67b4f4ebdd7c3496ee236aa9_icono-linkedin.svg",
+  "name": "icono linkedin.svg",
+  "type": "image/svg+xml",
+  "size": 798,
+  "local": "assets/67b4f4ebdd7c3496ee236aa9.svg"
+ },
+ "67b4f467fb39b0fafb97de97": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67b4f467fb39b0fafb97de97_icono%20insta.svg",
+  "file": "67b4f467fb39b0fafb97de97_icono-insta.svg",
+  "name": "icono insta.svg",
+  "type": "image/svg+xml",
+  "size": 1788,
+  "local": "assets/67b4f467fb39b0fafb97de97.svg"
+ },
+ "67b48dfcf7be58d9970e5ed2": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67b48dfcf7be58d9970e5ed2_flecha%20activo.svg",
+  "file": "67b48dfcf7be58d9970e5ed2_flecha-activo.svg",
+  "name": "flecha activo.svg",
+  "type": "image/svg+xml",
+  "size": 1691,
+  "local": "assets/67b48dfcf7be58d9970e5ed2.svg"
+ },
+ "67b3d38ecc990c91fcd36b56": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67b3d38ecc990c91fcd36b56_icono-logo%20whimisical.svg",
+  "file": "67b3d38ecc990c91fcd36b56_icono-logo-whimisical.svg",
+  "name": "icono-logo whimisical.svg",
+  "type": "image/svg+xml",
+  "size": 1067,
+  "local": "assets/67b3d38ecc990c91fcd36b56.svg"
+ },
+ "67b3ca93bcd35b8eb468a129": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67b3ca93bcd35b8eb468a129_linea%20de%20titutlos.svg",
+  "file": "67b3ca93bcd35b8eb468a129_linea-de-titutlos.svg",
+  "name": "linea de titutlos.svg",
+  "type": "image/svg+xml",
+  "size": 149,
+  "local": "assets/67b3ca93bcd35b8eb468a129.svg"
+ },
+ "67b367d6f199a003d23c5b06": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67b367d6f199a003d23c5b06_conjunto%20de%20fotos.png",
+  "file": "67b367d6f199a003d23c5b06_conjunto-de-fotos.png",
+  "name": "conjunto de fotos.png",
+  "type": "image/png",
+  "size": 1992902,
+  "local": "assets/67b367d6f199a003d23c5b06.webp",
+  "convert": "webp"
+ },
+ "67ae35e2f57af28dcee60d81": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67ae35e2f57af28dcee60d81_logo%20solidworks.svg",
+  "file": "67ae35e2f57af28dcee60d81_logo-solidworks.svg",
+  "name": "logo solidworks.svg",
+  "type": "image/svg+xml",
+  "size": 3808,
+  "local": "assets/67ae35e2f57af28dcee60d81.svg"
+ },
+ "67ae3598dbb712458b686da7": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67ae3598dbb712458b686da7_logo%20pacdora.svg",
+  "file": "67ae3598dbb712458b686da7_logo-pacdora.svg",
+  "name": "logo pacdora.svg",
+  "type": "image/svg+xml",
+  "size": 3450,
+  "local": "assets/67ae3598dbb712458b686da7.svg"
+ },
+ "67ae344b33299da66de775b0": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67ae344b33299da66de775b0_icono-logo%20webflow.svg",
+  "file": "67ae344b33299da66de775b0_icono-logo-webflow.svg",
+  "name": "icono-logo webflow.svg",
+  "type": "image/svg+xml",
+  "size": 463,
+  "local": "assets/67ae344b33299da66de775b0.svg"
+ },
+ "67ae33d1069004f6ffc107d6": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67ae33d1069004f6ffc107d6_icono-logo%20ps.svg",
+  "file": "67ae33d1069004f6ffc107d6_icono-logo-ps.svg",
+  "name": "icono-logo ps.svg",
+  "type": "image/svg+xml",
+  "size": 3259,
+  "local": "assets/67ae33d1069004f6ffc107d6.svg"
+ },
+ "67ae33bc33299da66de6ed6d": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67ae33bc33299da66de6ed6d_icono-logo%20optimal%20workshop.svg",
+  "file": "67ae33bc33299da66de6ed6d_icono-logo-optimal-workshop.svg",
+  "name": "icono-logo optimal workshop.svg",
+  "type": "image/svg+xml",
+  "size": 1863,
+  "local": "assets/67ae33bc33299da66de6ed6d.svg"
+ },
+ "67ae338e7b95c05ab8cd2f7e": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67ae338e7b95c05ab8cd2f7e_icono-behance.svg",
+  "file": "67ae338e7b95c05ab8cd2f7e_icono-behance.svg",
+  "name": "icono-behance.svg",
+  "type": "image/svg+xml",
+  "size": 2599,
+  "local": "assets/67ae338e7b95c05ab8cd2f7e.svg"
+ },
+ "67ae338d9c6f88bb86d658b1": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67ae338d9c6f88bb86d658b1_icono%20wordpress.svg",
+  "file": "67ae338d9c6f88bb86d658b1_icono-wordpress.svg",
+  "name": "icono wordpress.svg",
+  "type": "image/svg+xml",
+  "size": 1872,
+  "local": "assets/67ae338d9c6f88bb86d658b1.svg"
+ },
+ "67ae337d92db68f1dc8f0abf": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67ae337d92db68f1dc8f0abf_icono-%20logo%20ai.svg",
+  "file": "67ae337d92db68f1dc8f0abf_icono--logo-ai.svg",
+  "name": "icono- logo ai.svg",
+  "type": "image/svg+xml",
+  "size": 1348,
+  "local": "assets/67ae337d92db68f1dc8f0abf.svg"
+ },
+ "67ae2e5777fc1a4f2176844a": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67ae2e5777fc1a4f2176844a_icono-logo%20figma.svg",
+  "file": "67ae2e5777fc1a4f2176844a_icono-logo-figma.svg",
+  "name": "icono-logo figma.svg",
+  "type": "image/svg+xml",
+  "size": 1523,
+  "local": "assets/67ae2e5777fc1a4f2176844a.svg"
+ },
+ "67ae2e575cca007c0af1ff72": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67ae2e575cca007c0af1ff72_icono-logo%20insta.svg",
+  "file": "67ae2e575cca007c0af1ff72_icono-logo-insta.svg",
+  "name": "icono-logo insta.svg",
+  "type": "image/svg+xml",
+  "size": 1508,
+  "local": "assets/67ae2e575cca007c0af1ff72.svg"
+ },
+ "67ae2e5755b6bc13ee19ed3c": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67ae2e5755b6bc13ee19ed3c_icono-linkedin.svg",
+  "file": "67ae2e5755b6bc13ee19ed3c_icono-linkedin.svg",
+  "name": "icono-linkedin.svg",
+  "type": "image/svg+xml",
+  "size": 676,
+  "local": "assets/67ae2e5755b6bc13ee19ed3c.svg"
+ },
+ "6799a469d948eb83f82f2acf": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/6799a469d948eb83f82f2acf_icono-flecha blanco.svg",
+  "file": "6799a469d948eb83f82f2acf_icono-flecha-blanco.svg",
+  "name": "icono-flecha blanco.svg",
+  "type": "image/svg+xml",
+  "size": 1607,
+  "local": "assets/6799a469d948eb83f82f2acf.svg"
+ },
+ "6799a46923886709bd064c7b": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/6799a46923886709bd064c7b_icono-flecha.svg",
+  "file": "6799a46923886709bd064c7b_icono-flecha.svg",
+  "name": "icono-flecha.svg",
+  "type": "image/svg+xml",
+  "size": 1607,
+  "local": "assets/6799a46923886709bd064c7b.svg"
+ },
+ "67992e9959ffd5459cbba96b": {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/67954b09921a2316148d80c2/67992e9959ffd5459cbba96b_Vectors-Wrapper.svg",
+  "file": "67992e9959ffd5459cbba96b_vectors-wrapper.svg",
+  "name": "Vectors-Wrapper.svg",
+  "type": "image/svg+xml",
+  "size": 0,
+  "local": "assets/67992e9959ffd5459cbba96b.svg"
+ }
+}
