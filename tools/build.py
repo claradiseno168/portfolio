@@ -10,6 +10,8 @@ ASSETS = json.load(open(os.path.join(ROOT, 'tools', 'assets.json'), encoding='ut
 SITE = 'https://clarasportfolio.vercel.app'
 EMAIL = 'claradiseno168@gmail.com'
 BEHANCE_APPLICA = 'https://www.behance.net/gallery/206983929/Proyecto-final-UxUI-Coder-House'
+GMAIL = f'https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to={EMAIL}'
+NEWTAB_GMAIL = '<span class="sr-only"> (opens Gmail in a new tab)</span>'
 CARBIQUE_LIVE = 'https://carbique-bottle-water.webflow.io/'
 
 def A(aid):
@@ -60,9 +62,9 @@ NAV = f'''<a class="skip-link" href="#main">Skip to content</a>
       <a href="/about-me" class="nav-link w-nav-link">About</a>
       <a href="/#work" class="nav-link w-nav-link">Work</a>
       <div class="w-layout-hflex flex-block-48">
-        <a href="mailto:{EMAIL}" class="button4-3 w-inline-block">
+        <a href="{GMAIL}" class="button4-3 w-inline-block" target="_blank" rel="noopener">
           <div class="button4_circle-3">{img('6a122b95b4c33bf17f386be2', 'button2_icon-2', '', eager=True)}</div>
-          <div class="button4_text-3">Let's talk</div>
+          <div class="button4_text-3">Let's talk{NEWTAB_GMAIL}</div>
           <div class="button4_bg-2" aria-hidden="true"></div>
         </a>
       </div>
@@ -78,7 +80,7 @@ FOOTER = f'''<footer class="footer-black">
     <div class="w-layout-blockcontainer container-left-footer w-container">
       <div class="wrapper-get-in-touch">
         <h2 class="heading-15 as-h1">Interested in working together?</h2>
-        <a href="mailto:{EMAIL}" class="footer-button w-button">Get in Touch</a>
+        <a href="{GMAIL}" class="footer-button w-button" target="_blank" rel="noopener">Get in Touch{NEWTAB_GMAIL}</a>
         <ul class="w-layout-hflex wrapper-figma" role="list" style="list-style:none;margin:0;padding:0">
           <li><a href="https://www.linkedin.com/in/clara-de-ezcurra-6296ba208/" class="w-inline-block" target="_blank" rel="noopener">{img('67b89d28336baea608632e98', 'image-10', 'LinkedIn (opens in a new tab)')}</a></li>
           <li><a href="https://www.behance.net/claradiseo" class="w-inline-block" target="_blank" rel="noopener">{img('67b89d60f9a79e5d617b1d8a', 'image-12', 'Behance (opens in a new tab)')}</a></li>
@@ -287,7 +289,7 @@ def home():
   <div class="w-layout-vflex flex-block-29">
     <p class="heading-26 as-h5">Want to start a project?</p>
     <h2 id="cta-title" class="heading-28 as-h1">Let´s Talk</h2>
-    <a href="mailto:{EMAIL}" class="button w-button">Get in Touch</a>
+    <a href="{GMAIL}" class="button w-button" target="_blank" rel="noopener">Get in Touch{NEWTAB_GMAIL}</a>
   </div>
 </section>'''
     page('index.html', 'Clara de Ezcurra | Product Designer Portfolio',
