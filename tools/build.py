@@ -9,7 +9,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ASSETS = json.load(open(os.path.join(ROOT, 'tools', 'assets.json'), encoding='utf-8'))
 SITE = 'https://clarasportfolio.vercel.app'
 EMAIL = 'claradiseno168@gmail.com'
-BEHANCE_APPLICA = 'https://www.behance.net/claradiseo'  # TODO: reemplazar por el link del proyecto Applica
+BEHANCE_APPLICA = 'https://www.behance.net/gallery/206983929/Proyecto-final-UxUI-Coder-House'
 CARBIQUE_LIVE = 'https://carbique-bottle-water.webflow.io/'
 
 def A(aid):
@@ -388,7 +388,7 @@ def carbique():
         'This project was an opportunity to combine my UI design and 3D rendering skills. Without focusing on UX research, I aimed to build a visually impactful landing page using Webflow, integrating 3D visuals to enhance product presentation and interaction.', True,
         '68ebe85fdfeb716fdbb8b439', 'Carbique landing page design shown on desktop and mobile',
         [tool('68ebe97a50a3f0603bf1842f', 'image-58', 'Webflow'), tool('68d47da5463d4c531686bcdf', 'image-59', 'Figma'),
-         tool('68ebea5e41b0d79431a426f1', 'image-60', '3D design software'), tool('68d47efcb16249872058d1b7', 'image-61', 'Adobe Illustrator'),
+         tool('68ebea5e41b0d79431a426f1', 'image-60', 'SolidWorks'), tool('68d47efcb16249872058d1b7', 'image-61', 'Adobe Illustrator'),
          tool('68d47f127200212b7e3818cb', 'image-62', 'Adobe Photoshop')])
     body = hdr + f'''
 <div class="w-layout-vflex flex-block-38">
