@@ -302,7 +302,7 @@ def about():
         return f'''<div class="w-layout-vflex datos"{r}>
         <div class="w-layout-hflex flex-block-8">
           {img('67c618797e3b430e58a5a1a8', cls, '')}
-          <p class="heading-18 as-h1" data-count="{n}">{n}<span class="sr-only"> or more</span></p>
+          <p class="heading-18 as-h1"><span data-count="{n}" data-count-time="1000" data-count-delay="600" aria-hidden="true">{n}</span><span class="sr-only">{n} or more</span></p>
         </div>
         <div class="text-block-20">{label}</div>
       </div>'''

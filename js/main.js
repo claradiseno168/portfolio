@@ -99,6 +99,32 @@
     }, { passive: true });
   }
 
+  /* ---------- Contadores del About (0 → número, 1000ms, 600ms de delay como en Webflow) ---------- */
+  var counters = document.querySelectorAll('[data-count]');
+  if (counters.length && 'IntersectionObserver' in window) {
+    var easeOut = function (t) { return 1 - Math.pow(1 - t, 3); };
+    counters.forEach(function (el) { el.textContent = '0'; });
+    var cio = new IntersectionObserver(function (entries) {
+      entries.forEach(function (en) {
+        if (!en.isIntersecting) return;
+        cio.unobserve(en.target);
+        var el = en.target, target = parseInt(el.getAttribute('data-count'), 10) || 0;
+        var dur = parseInt(el.getAttribute('data-count-time'), 10) || 1000;
+        var delay = parseInt(el.getAttribute('data-count-delay'), 10) || 0;
+        setTimeout(function () {
+          var start = null;
+          (function step(ts) {
+            if (start === null) start = ts;
+            var t = Math.min(1, (ts - start) / dur);
+            el.textContent = String(Math.round(easeOut(t) * target));
+            if (t < 1) requestAnimationFrame(step);
+          })(performance.now());
+        }, delay);
+      });
+    }, { threshold: 0.4 });
+    counters.forEach(function (el) { cio.observe(el); });
+  }
+
   initLottie(false);
 
   /* ---------- Lottie controlado por scroll (Carbique) ---------- */
