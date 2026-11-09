@@ -39,10 +39,10 @@
     return;
   }
 
-  /* ---------- Scroll suave (Lenis, lerp 0.07 como en Webflow) ---------- */
+  /* ---------- Scroll suave (Lenis; más ágil que el 0.07 original) ---------- */
   var lenis = null;
   if (window.Lenis) {
-    lenis = new Lenis({ lerp: 0.07 });
+    lenis = new Lenis({ lerp: 0.1, wheelMultiplier: 1.1 });
     (function raf(t) { lenis.raf(t); requestAnimationFrame(raf); })(0);
     // Los anclas internos (p. ej. "Saltar al contenido") también se mueven con Lenis
     document.querySelectorAll('a[href^="#"]').forEach(function (a) {
@@ -60,7 +60,7 @@
       entries.forEach(function (en) {
         if (en.isIntersecting) { en.target.classList.add('is-revealed'); io.unobserve(en.target); }
       });
-    }, { rootMargin: '0px 0px -1% 0px', threshold: 0 });
+    }, { rootMargin: window.matchMedia('(max-width: 767px)').matches ? '0px 0px 15% 0px' : '0px 0px -5% 0px', threshold: 0 });
     reveals.forEach(function (el) { io.observe(el); });
   } else {
     reveals.forEach(function (el) { el.classList.add('is-revealed'); });

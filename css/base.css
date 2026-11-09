@@ -63,6 +63,14 @@ main:focus{outline:none}
 [data-reveal="1"]{--rv-dur:1100ms;--rv-delay:300ms}
 [data-reveal="2"]{--rv-dur:1000ms;--rv-delay:600ms}
 [data-reveal="3"]{--rv-dur:1000ms;--rv-delay:900ms}
+/* Celular/tablet: aparición más corta y ágil para no frenar la lectura */
+@media (max-width:991px){
+  .js-motion [data-reveal]{translate:0 32px}
+  [data-reveal]{--rv-dur:650ms;--rv-delay:0ms}
+  [data-reveal="1"]{--rv-dur:650ms;--rv-delay:120ms}
+  [data-reveal="2"]{--rv-dur:650ms;--rv-delay:240ms}
+  [data-reveal="3"]{--rv-dur:650ms;--rv-delay:360ms}
+}
 
 /* Navbar que se esconde al bajar y aparece al subir (Home y About) */
 [data-hide-on-scroll] .w-nav{transition:transform .4s cubic-bezier(.25,.46,.45,.94)}
