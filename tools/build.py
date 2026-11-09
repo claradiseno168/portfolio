@@ -105,8 +105,8 @@ SCRIPTS = '''<script src="/js/vendor/lenis.min.js" defer></script>
 </body>
 </html>'''
 
-def page(fname, title, desc, path, body, hide_nav=False, lottie=False):
-    attrs = ' data-hide-on-scroll' if hide_nav else ''
+def page(fname, title, desc, path, body, hide_nav=False, lottie=False, body_cls='carbique'):
+    attrs = f' class="{body_cls}"' + (' data-hide-on-scroll' if hide_nav else '')
     out = head(title, desc, path) + f'\n<body{attrs}>\n' + NAV + '\n<main id="main" tabindex="-1">\n' + body + '\n</main>\n' + FOOTER + '\n' + SCRIPTS.format(lottie='<script src="/js/vendor/lottie_light.min.js" defer></script>\n' if lottie else '')
     with open(os.path.join(ROOT, fname), 'w', encoding='utf-8') as f:
         f.write(out)
@@ -292,7 +292,7 @@ def home():
 </section>'''
     page('index.html', 'Clara de Ezcurra | Product Designer Portfolio',
          'Product Designer focused on creating functional, aesthetic, and user-centered digital experiences. Portfolio showcasing UI, UX, and web design projects.',
-         '/', body, hide_nav=True)
+         '/', body, hide_nav=True, body_cls='body')
 
 # ---------------------------------------------------------------- ABOUT
 def about():
@@ -328,7 +328,7 @@ def about():
   </div>
 </section>'''
     page('about-me.html', 'About me', 'Clara de Ezcurra, UX/UI and Product Designer from Buenos Aires: experience, projects and tools.',
-         '/about-me', body, hide_nav=True)
+         '/about-me', body, hide_nav=True, body_cls='body-4')
 
 # ---------------------------------------------------------------- APPLICA
 def applica():
@@ -451,7 +451,7 @@ def notfound():
   <p class="text-large light">The page you are looking for doesn’t exist or was moved.</p>
   <p><a class="button w-button" href="/">Back to home</a></p>
 </section>'''
-    page('404.html', 'Page not found | Clara de Ezcurra', '', '/404', body)
+    page('404.html', 'Page not found | Clara de Ezcurra', '', '/404', body, body_cls='body')
 
 if __name__ == '__main__':
     home(); about(); applica(); carbique(); case(); notfound()
